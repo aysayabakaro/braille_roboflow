@@ -16,7 +16,7 @@ body.loading video {
 }
 
 body.loading:before {
-    content: "Loading Model...";
+    content: " ";
     color: white;
     text-align: center;
     width: 100%;
@@ -52,7 +52,7 @@ body:after {
     width: 350px;
     height: 150px;
     z-index: 1;
-    background-image: url("https://uploads-ssl.webflow.com/5eca8e43c4dfff837f0f6392/5ecad58e650fb5ec53e8b811_roboflow_assets_logo_white.png");
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeitfable.com%2Fglossary-term%2Fb%2Fbraille%2F&psig=AOvVaw109grbVW3z1bPDeTd4NbGZ&ust=1736357357974000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiptrGR5IoDFQAAAAAdAAAAABAE");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom right;
